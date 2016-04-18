@@ -12,3 +12,5 @@ To build for another os/arch use GOOS and GOARCH
 ```
 GOOS=darwin make
 ```
+
+Thanks to *Nathan Leclaire* for his article [Shelled-out Commands In Golang](http://nathanleclaire.com/blog/2014/12/29/shelled-out-commands-in-golang/)
